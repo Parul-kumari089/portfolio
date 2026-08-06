@@ -6,9 +6,6 @@ Built with a clean UI, smooth animations, and a focus on creating an engaging ex
 
 ---
 
-## 🌐 Live Demo
-
-🔗 **Portfolio:** `https://your-portfolio-link.com`
 
 ---
 
@@ -87,32 +84,14 @@ An IoT-based smoke detection system using ESP8266 and MQ-2 gas sensor with real-
 
 ---
 
-## 📸 Screenshots
 
-Add screenshots of:
-
-* Hero Section
-* About
-* Projects
-* Contact
-* Mobile View
-
-Example:
-
-```
-assets/screenshots/home.png
-assets/screenshots/projects.png
-assets/screenshots/mobile.png
-```
-
----
 
 ## ⚙️ Installation
 
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/Parul-kumari089/portfolio.git
 ```
 
 Go to the project folder
@@ -151,4 +130,4 @@ npm run build
 
 ## 📄 License
 
-This project is open for learning and inspiration. Please do not copy it directly.
+This project is open for learning and inspiration. 
