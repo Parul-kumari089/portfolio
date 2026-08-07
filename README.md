@@ -1,30 +1,40 @@
 # 💼 Parul Kumari | Portfolio
 
-A modern, responsive, and interactive personal portfolio website showcasing my projects, technical skills, certifications, and journey as a Computer Science Engineering student.
+🌐 **Live Demo:** https://portfolio-mu-seven-vo8qhsslxn.vercel.app
 
-Built with a clean UI, smooth animations, and a focus on creating an engaging experience for recruiters and developers.
+A modern, responsive, and interactive personal portfolio website showcasing my projects, technical skills, certifications, and journey as a Computer Science Engineering student.
 
 ---
 
+## 📸 Preview
+
+### 🏠 Home
+![Home](assets/screenshots/home.png)
+
+### 👩‍💻 About
+![About](assets/screenshots/about.png)
+
+### 🚀 Projects
+![Projects](assets/screenshots/project.png)
 
 ---
 
 ## ✨ Features
 
-* Responsive design for desktop, tablet, and mobile
-* Modern dark theme
-* Smooth scroll animations
-* Interactive project showcase
-* About Me section
-* Skills section
-* Journey timeline
-* Certifications
-* GitHub & social links
-* Resume download
-* Contact section
-* Scroll progress indicator
-* Back-to-top button
-* Optimized performance
+- Responsive design for desktop, tablet, and mobile
+- Modern dark theme
+- Smooth scroll animations
+- Interactive project showcase
+- About Me section
+- Skills section
+- Journey timeline
+- Certifications
+- GitHub & social links
+- Resume download
+- Contact section
+- Scroll progress indicator
+- Back-to-top button
+- Optimized performance
 
 ---
 
@@ -32,21 +42,21 @@ Built with a clean UI, smooth animations, and a focus on creating an engaging ex
 
 ### Frontend
 
-* React
-* Vite
-* Tailwind CSS
+- React
+- Vite
+- Tailwind CSS
 
 ### Animations
 
-* Framer Motion
+- Framer Motion
 
 ### Icons
 
-* React Icons
+- React Icons
 
 ### Deployment
 
-* Render
+- Vercel
 
 ---
 
@@ -84,8 +94,6 @@ An IoT-based smoke detection system using ESP8266 and MQ-2 gas sensor with real-
 
 ---
 
-
-
 ## ⚙️ Installation
 
 Clone the repository
@@ -122,12 +130,12 @@ npm run build
 
 ## 📬 Connect With Me
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-linkedin
-* Portfolio: https://your-portfolio-link.com
+- GitHub: https://github.com/Parul-kumari089
+- LinkedIn: https://linkedin.com/in/your-linkedin
+- Portfolio: https://portfolio-mu-seven-vo8qhsslxn.vercel.app
 
 ---
 
 ## 📄 License
 
-This project is open for learning and inspiration. 
+This project is open for learning and inspiration.
