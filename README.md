@@ -131,7 +131,7 @@ npm run build
 ## 📬 Connect With Me
 
 - GitHub: https://github.com/Parul-kumari089
-- LinkedIn: https://linkedin.com/in/your-linkedin
+- LinkedIn: https://linkedin.com/in/parulkumari02/
 - Portfolio: https://portfolio-mu-seven-vo8qhsslxn.vercel.app
 
 ---
